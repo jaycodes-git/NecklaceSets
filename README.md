@@ -1,4 +1,4 @@
-1.Clone this repositort
+1.Clone this repository
 2.pip install -r requirements.txt 
 3.scrapy crawl necklace
 4.check output folder to see previously saved output
